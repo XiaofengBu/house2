@@ -1,4 +1,4 @@
-package com.xiaofeng.house.apigateway.config;
+package com.xiaofeng.house.userserver.config;
 
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.config.RequestConfig;
